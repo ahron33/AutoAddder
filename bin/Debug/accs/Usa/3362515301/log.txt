@@ -1,0 +1,35 @@
+[2021.02.18 16:01:15] Launched version: 1006002, install beta: [FALSE], alpha: 0, debug mode: [FALSE], test dc: [FALSE]
+[2021.02.18 16:01:15] Executable dir: D:/Start/repos/repos/AutoAddder/AutoAddder/bin/Debug/telegram/, name: Telegram.exe
+[2021.02.18 16:01:15] Initial working dir: D:/Start/repos/repos/AutoAddder/AutoAddder/bin/Debug/telegram/
+[2021.02.18 16:01:15] Working dir: D:/Start/repos/repos/AutoAddder/AutoAddder/bin/Debug/telegram/
+[2021.02.18 16:01:15] Command line: D:\Start\repos\repos\AutoAddder\AutoAddder\bin\Debug\telegram\Telegram.exe
+[2021.02.18 16:01:15] Executable path before check: D:/Start/repos/repos/AutoAddder/AutoAddder/bin/Debug/telegram/Telegram.exe
+[2021.02.18 16:01:15] Logs started
+[2021.02.18 16:01:15] Connecting local socket to Global\7d45be000a10bff0de5212ec464d90ea-{87A94AB0-E370-4cde-98D3-ACC110C5967D}...
+[2021.02.18 16:01:15] This is the only instance of Telegram, starting server and app...
+[2021.02.18 16:01:15] Moved logging from 'D:/Start/repos/repos/AutoAddder/AutoAddder/bin/Debug/telegram/log_start0.txt' to 'D:/Start/repos/repos/AutoAddder/AutoAddder/bin/Debug/telegram/log.txt'!
+[2021.02.18 16:01:15] Primary screen DPI: 96
+[2021.02.18 16:01:15] App Info: reading settings...
+[2021.02.18 16:01:15] App Info: reading encrypted settings...
+[2021.02.18 16:01:15] OpenAL Logging Level: (not set)
+[2021.02.18 16:01:15] Audio Playback Devices: OpenAL Soft
+[2021.02.18 16:01:15] Audio Playback Default Device: OpenAL Soft
+[2021.02.18 16:01:15] Audio Capture Devices: OpenAL Soft on Headset Microphone (HyperX 7.1 Audio)
+[2021.02.18 16:01:15] Audio Capture Default Device: OpenAL Soft on Headset Microphone (HyperX 7.1 Audio)
+[2021.02.18 16:01:15] App Info: reading map...
+[2021.02.18 16:01:15] App Info: reading encrypted map...
+[2021.02.18 16:01:15] App Info: reading encrypted user settings...
+[2021.02.18 16:01:15] App Info: encrypted user settings read.
+[2021.02.18 16:01:15] App Info: reading encrypted mtp data...
+[2021.02.18 16:01:15] MTP Info: read keys, current: 2, to destroy: 0
+[2021.02.18 16:01:15] Map read time: 1
+[2021.02.18 16:01:15] Window Shadow: 1, 1, 3, 4, 6, 9, 13, 18, 24, 31, 38, 46
+[2021.02.18 16:01:16] MTP Info: destroying stale keys, count: 2
+[2021.02.18 16:01:16] HTTP Error: remote host closed - Connection closed
+[2021.02.18 16:01:16] Message Error: unknown constructor 4133544404
+[2021.02.18 16:01:16] Message Error: unknown constructor 4133544404
+[2021.02.18 16:01:16] TCP Error: error packet received, endpoint: '149.154.167.92:443', protocolDcId: 4, code = -404
+[2021.02.18 16:01:16] MTP Info: -404 error received on destroying key 2560004, assuming it is destroyed.
+[2021.02.18 16:01:16] TCP Error: error packet received, endpoint: '149.154.167.51:443', protocolDcId: 2, code = -404
+[2021.02.18 16:01:16] MTP Info: -404 error received on destroying key 2560002, assuming it is destroyed.
+[2021.02.18 16:01:16] MTP Info: all keys scheduled for destroy are destroyed.

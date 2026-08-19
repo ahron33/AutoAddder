@@ -1,0 +1,17 @@
+C:\Users\Ahron\source\repos\AutoAddder\AutoAddder\bin\Release\AutoAddder.exe.config
+C:\Users\Ahron\source\repos\AutoAddder\AutoAddder\bin\Release\AutoAddder.exe
+C:\Users\Ahron\source\repos\AutoAddder\AutoAddder\bin\Release\AutoAddder.pdb
+C:\Users\Ahron\source\repos\AutoAddder\AutoAddder\bin\Release\AForge.dll
+C:\Users\Ahron\source\repos\AutoAddder\AutoAddder\bin\Release\AForge.Imaging.dll
+C:\Users\Ahron\source\repos\AutoAddder\AutoAddder\bin\Release\AForge.Math.dll
+C:\Users\Ahron\source\repos\AutoAddder\AutoAddder\bin\Release\AForge.xml
+C:\Users\Ahron\source\repos\AutoAddder\AutoAddder\bin\Release\AForge.Imaging.xml
+C:\Users\Ahron\source\repos\AutoAddder\AutoAddder\bin\Release\AForge.Math.xml
+C:\Users\Ahron\source\repos\AutoAddder\AutoAddder\obj\Release\AutoAddder.csprojAssemblyReference.cache
+C:\Users\Ahron\source\repos\AutoAddder\AutoAddder\obj\Release\AutoAddder.Form1.resources
+C:\Users\Ahron\source\repos\AutoAddder\AutoAddder\obj\Release\AutoAddder.Properties.Resources.resources
+C:\Users\Ahron\source\repos\AutoAddder\AutoAddder\obj\Release\AutoAddder.csproj.GenerateResource.cache
+C:\Users\Ahron\source\repos\AutoAddder\AutoAddder\obj\Release\AutoAddder.csproj.CoreCompileInputs.cache
+C:\Users\Ahron\source\repos\AutoAddder\AutoAddder\obj\Release\AutoAddder.csproj.CopyComplete
+C:\Users\Ahron\source\repos\AutoAddder\AutoAddder\obj\Release\AutoAddder.exe
+C:\Users\Ahron\source\repos\AutoAddder\AutoAddder\obj\Release\AutoAddder.pdb

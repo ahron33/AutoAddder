@@ -1,0 +1,1 @@
+"C:\Program Files\BlueStacks\HD-RunApp.exe" -json "{\"app_icon_url\":\"\",\"app_name\":\"Telegram X\",\"app_url\":\"\",\"app_pkg\":\"org.thunderdog.challegram\"}"
