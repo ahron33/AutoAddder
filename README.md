@@ -1,10 +1,15 @@
 # AutoAddder
 
-**A Windows desktop automation tool built with C# and Windows Forms.**
+<img width="263" height="664" alt="Screenshot_205" src="https://github.com/user-attachments/assets/1905ba81-4ddb-4a90-9ec7-5c2592ec12c0" />
+
 
 AutoAddder is a desktop application designed to automate selected Telegram-related workflows through a combination of desktop interaction, image recognition, OCR, and external service integrations.
 
 The project brings together several automation technologies in one interface, with configurable settings and workflow controls.
+
+
+
+
 
 ---
 
