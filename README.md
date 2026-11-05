@@ -91,6 +91,4 @@ AutoAddder is a C# Windows desktop automation project combining multiple technol
 
 Developed in **C#**.
 
----
 
-*If you find this project useful, feel free to explore the source code and learn more about its implementation.*
